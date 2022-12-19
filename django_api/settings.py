@@ -60,8 +60,8 @@ REST_FRAMEWORK = {
 
 
 SPECTACULAR_SETTINGS = {
-    "TITLE": "Blog API Project",
-    "DESCRIPTION": "A sample blog to learn about DRF",
+    "TITLE": "API Project for Tobi's Code",
+    "DESCRIPTION": "A sample project to learn about DRF",
     "VERSION": "1.0.0",
     # OTHER SETTINGS
 }
